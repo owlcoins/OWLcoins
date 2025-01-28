@@ -33,7 +33,7 @@
     <img width="405" src="https://64.media.tumblr.com/a573daeafc2926eb0fb84eb7e8c84672/fe541377cc346078-1f/s640x960/48cd06bdaf79865b431042c12bedb6a1d707c59f.pnj">
 </p>
 
-   　   　   　   　   　   　   　[𝐫𝐞𝐧𝐭𝐫𝐲](https://rentry.co/extaused) | [𝐚𝐭𝐚](https://spiritbox.atabook.org/) | [𝐜𝐚𝐫𝐫𝐝](https://divineliarning.carrd.co/) 
+
 
 
 
