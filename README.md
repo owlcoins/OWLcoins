@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ConsCXius&color=6A040F&style=flat-square&label=conscious_human)
+![](https://komarev.com/ghpvc/?username=ConsCXius&color=6A040F&style=flat-square&label=✧_|_finger_print_|_✧)
 <p align="center">
 ╭────────╯ •◦☓◦• ╰────────╮
 </p>
