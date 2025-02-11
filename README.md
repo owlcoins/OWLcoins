@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=ConsCXius&color=6A040F&style=flat-square&label=_♱_)
+
+![](https://komarev.com/ghpvc/?username=ConsCXius&color=59BE57&style=flat-square&label=_♱_)
+    
 <p align="center">
 ╭────────╯ •◦☓◦• ╰────────╮
 </p>
@@ -12,7 +14,7 @@
 </p>
 
 <p align="center">
-    <img width="405" src="https://64.media.tumblr.com/814e18235b417da7436fbd1d0d19fda4/d43e99c1a52698b4-d2/s640x960/444c80102e3696db167147c8ae5b0e38e51ea591.gifv">
+    <img width="405" src="https://64.media.tumblr.com/991f9c52c2834676168c8b6b74e2f40d/4f16f79037b6f091-53/s400x600/c29874875cc276c20d68d75e3cea344a86f33664.pnj">
 </p>
 
 <p align="center">
