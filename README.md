@@ -1,7 +1,5 @@
 
 ![](https://komarev.com/ghpvc/?username=ConsCXius&color=59BE57&style=flat-square&label=_♱_)
-    
-
 
 <p align="center">
 "𝗬𝗼𝘂'𝗿𝗲 𝗻𝗼𝘁 𝗳𝗶𝗻𝗶𝘀𝗵𝗲𝗱 𝗮𝗿𝗲 𝘆𝗼𝘂? 𝗖𝗼𝗺𝗲 𝗼𝗻, 𝘁𝗿𝘆 𝗵𝗮𝗿𝗱𝗲𝗿..." 
@@ -11,7 +9,7 @@
 ✦✧✦
 </p>
 
-  　  　　    　　 [𝐀𝐭𝐚𝐛𝐨𝐨𝐤](https://spiritbox.atabook.org/)　 [𝐑𝐞𝐧𝐭𝐫𝐲](https://rentry.co/conscxius)　 [𝐞𝐧.𝐏𝐫𝐨𝐧𝐨𝐮𝐧](https://en.pronouns.page/@cllasiccigarrate)
+  　  　　    　　 
 
 <p align="center">
     <img width="405" src="https://64.media.tumblr.com/991f9c52c2834676168c8b6b74e2f40d/4f16f79037b6f091-53/s400x600/c29874875cc276c20d68d75e3cea344a86f33664.pnj">
