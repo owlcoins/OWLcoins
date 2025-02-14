@@ -28,12 +28,6 @@
 ╍╍╍╍╍┅╍╍╍╍╍╍╍╍╍╍╍
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vqck2xnl327xecntooe7ptxtrq&unique={true|1|on|yes})
-
-
-
-
-
-
-
-
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31vqck2xnl327xecntooe7ptxtrq">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31vqck2xnl327xecntooe7ptxtrq" alt="Data Card for Spotify">
+</a>
