@@ -9,7 +9,9 @@
 ✦✧✦
 </p>
 
-![](https://64.media.tumblr.com/844652d1cf8d2c0fab25d6dd0c199452/473928ea48888009-d1/s100x200/e713bd7fe02ec050ecd9cda77e85c0378864a3ee.jpg)![](https://64.media.tumblr.com/43dbe2f8c20352f9452c41bf45694b68/8c49db604b0f3002-f5/s100x200/5b48c00b9599cf998d1fe43798c9165f7e2bebc0.pnj)![](https://64.media.tumblr.com/beff93dcb01391111168d7e625257690/0a844093c4702aee-35/s100x200/de02ad922690afc66c37dff49eeaf0e3c955cc2b.pnj)
+<p align="center">
+    <img width="100" src="https://64.media.tumblr.com/beff93dcb01391111168d7e625257690/0a844093c4702aee-35/s100x200/de02ad922690afc66c37dff49eeaf0e3c955cc2b.pnj">
+</p>
 
 
 
