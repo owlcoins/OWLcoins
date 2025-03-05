@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=ConsCXius&color=grey&style=flat-square&label=_♱_)
+![](https://komarev.com/ghpvc/?username=ConsCXius&color=6A040f&style=flat-square&label=_♱_)
 
 <p align="center">
 "𝗬𝗼𝘂'𝗿𝗲 𝗻𝗼𝘁 𝗳𝗶𝗻𝗶𝘀𝗵𝗲𝗱 𝗮𝗿𝗲 𝘆𝗼𝘂? 𝗖𝗼𝗺𝗲 𝗼𝗻, 𝘁𝗿𝘆 𝗵𝗮𝗿𝗱𝗲𝗿..." 
