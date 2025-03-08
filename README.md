@@ -1,4 +1,5 @@
 
+
 ![](https://komarev.com/ghpvc/?username=ConsCXius&color=A6040f&style=flat-square&label=_♱_)
 
 <p align="center">
@@ -29,3 +30,8 @@
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31vqck2xnl327xecntooe7ptxtrq">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31vqck2xnl327xecntooe7ptxtrq" alt="Data Card for Spotify">
 </a>
+
+
+<p align="center">
+    <img width="400" src="https://64.media.tumblr.com/4c0fbdb617de0a727198bd67bb55498b/af1d2bd09d335007-c5/s640x960/128e15ce5c977d219cfa80ff80c22352b117720b.pnj">
+</p>
