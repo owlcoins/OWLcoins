@@ -27,18 +27,11 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vqck2xnl327xecntooe7ptxtrq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vqck2xnl327xecntooe7ptxtrq&redirect=true)
 
-<p align="center">
-    <img width="500" src="https://64.media.tumblr.com/bc1387cc1c52cf97d2bbb8de1e961120/49833ea7a3e178f3-fa/s1280x1920/bf887dbeabf6bde4216973a3456900c34dd5a543.gifv">
-</p>
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31vqck2xnl327xecntooe7ptxtrq">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31vqck2xnl327xecntooe7ptxtrq" alt="Data Card for Spotify">
 </a>
 
-
-<p align="center">
-    <img width="400" src="https://64.media.tumblr.com/4c0fbdb617de0a727198bd67bb55498b/af1d2bd09d335007-c5/s640x960/128e15ce5c977d219cfa80ff80c22352b117720b.pnj">
-</p>
 
 <p align="center">
     <img width="500" src="https://64.media.tumblr.com/b0f6399b50feed01834417dae9c15e10/49833ea7a3e178f3-17/s1280x1920/fbf9b0e8c64d3c3ca85fd7f5083994dd9cad5dda.gifv">
